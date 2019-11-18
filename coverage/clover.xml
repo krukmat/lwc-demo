@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573930102927" clover="3.2.0">
+  <project timestamp="1573930102928" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4" elements="23" coveredelements="22" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="mitestsInstall.js" path="/Users/matiasleandrokruk/Desktop/kforce/test-csv2/force-app/main/default/lwc/mitestsInstall/mitestsInstall.js">
+      <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
